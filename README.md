@@ -1,6 +1,6 @@
 # SRW30TranslationFix
 
-This fixes translation errors in Super Robot Wars 30 PC version 1.1.0.1
+This fixes translation errors in Super Robot Wars 30 PC
 
 INSTALLATION
 ------------
